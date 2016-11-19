@@ -21,7 +21,6 @@ scripts are:
 - `dockerfile-opam`: installs OPAM and OCaml switches
 - `dockerfile-archive`: builds an OPAM source package archive and HTTP server
 - `dockerfile-core`: builds the Jane Street Core library suite
-- `dockerfile-coq`: builds the Coq compiler and adds its OPAM remote
 - `dockerfile-bulk`: constructs the OPAM bulk build scripts
 
 ## Docker Repostories
